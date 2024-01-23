@@ -5,7 +5,7 @@
  Me llamo Jorge, vivo en <strong>Buenos Aires, Argentina.</strong> Soy estudiante de desarrollo web en Henry.
 Donde día a día voy aprendiendo cosas nuevas sobre JavaScript, Node.js, Express, Sequelize, PostgreSQL, React, Redux y mas.
 
-He participado en proyectos, ya sea colaborando con compañeros o trabajando de forma independiente. Me emociona descubrir nuevas tecnologías, colaborar con otros, entender GIT y aplicar metodologías ágiles.
+He participado en proyectos, ya sea colaborando con compañeros o trabajando de forma independiente. Me emociona descubrir nuevas tecnologías, colaborar con otras personas y aplicar metodologías ágiles.
 
 Siempre atento a nuevas oportunidades, a la conexión, al desarrollo y al aprendizaje.
 
