@@ -2,7 +2,7 @@
  
   ![github-banner](https://github.com/jOsterrielt/jOsterrielt/assets/126017918/37f7bec6-c3da-4b3d-93e1-dac643019b04)
 
-Me llamo Jorge, FullStack developer con background en Diseño grafico y Gestión hotelera. Obtuve experiencia en tecnologías como JavaScript, React, Redux, HTML, CSS, Node.js, Express y mas, desarrollando proyectos en el bootcamp de Henry.
+Me llamo Jorge, FullStack developer con background en Diseño grafico y Gestión hotelera. Obtuve experiencia en tecnologías como JavaScript, React, Redux, HTML, CSS, Node.js, Express y mas, desarrollando proyectos individuales y tambien en el bootcamp de Henry.
 
 Mi enfoque no solo se centra en la individualidad, sino también en el trabajo en equipo. He colaborado en varios proyectos donde mi habilidad técnica se fusiona con la capacidad de trabajar en grupo. Esto me ha permitido no solo afrontar desafíos tecnológicos, sino también contribuir a un ambiente colaborativo y creativo. 
 
