@@ -9,7 +9,7 @@ Mi enfoque no solo se centra en la individualidad, sino también en el trabajo e
 ¡Estoy emocionado por seguir explorando nuevas oportunidades y aplicando mis habilidades para crear soluciones!
 
  <strong>correo:</strong> jorgeosterrielt@gmail.com <br>
-<strong>LinkedIn:</strong> www.linkedin.com/in/jorge-osterrielt 
+<strong>LinkedIn:</strong> www.linkedin.com/in/jorge-osterrielt <br>
 <strong>Porfolio:</strong> https://jorge-osterrielt.netlify.app/
 
 <!---
