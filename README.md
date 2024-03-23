@@ -10,7 +10,7 @@ Mi enfoque no solo se centra en la individualidad, sino también en el trabajo e
 
  <strong>correo:</strong> jorgeosterrielt@gmail.com <br>
 <strong>LinkedIn:</strong> www.linkedin.com/in/jorge-osterrielt 
-
+<strong>Porfolio:</strong> https://jorge-osterrielt.netlify.app/
 
 <!---
 jOsterrielt/jOsterrielt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
