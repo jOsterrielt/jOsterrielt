@@ -18,7 +18,7 @@ Mi enfoque no solo se centra en la individualidad, sino también en el trabajo e
 [![portfolio](https://img.shields.io/badge/mi_porfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jorge-osterrielt.netlify.app/)
 [![email](https://img.shields.io/badge/mi_email-000?style=for-the-badge&logo=gmail-fi&logoColor=red)](mailto:jorgeosterrielt@gmail.com)
 
- <strong>correo:</strong> jorgeosterrielt@gmail.com <br>
+
 
 
 <!---
